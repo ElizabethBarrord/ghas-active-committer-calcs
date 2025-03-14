@@ -73,7 +73,7 @@ async function main(enterpriseId: string, token: string) {
                 totalCount: data.total_count,
                 maximumAdvancedSecurityCommitters: data.maximum_advanced_security_committers,
                 purchasedAdvancedSecurityCommitters: data.purchased_advanced_security_committers,
-                totalOrganizations: orgCommitters.size
+                totalOrganizationsWithACs: orgCommitters.size
             },
             organizationStats: Array.from(orgCommitters).map(([org, committers]) => ({
                 organization: org,
