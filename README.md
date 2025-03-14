@@ -1,8 +1,4 @@
-# Enterprise Active Committers
-
-This tool helps analyze and calculate GitHub Enterprise Advanced Security committers across repositories in an organization.
-
-## Overview
+# Overview
 
 The tool processes repository data to track and analyze users who are considered active committers for GitHub Advanced Security purposes. It helps organizations monitor their Advanced Security usage and committer counts across repositories.
 
