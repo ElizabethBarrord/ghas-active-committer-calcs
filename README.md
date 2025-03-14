@@ -1,6 +1,6 @@
 # Overview
 
-The tool processes repository data to track and analyze users who are considered active committers for GitHub Advanced Security purposes. It helps organizations monitor their Advanced Security usage and committer counts across repositories.
+A POC of a tool to process repository data to track and analyze users who are considered active committers for GitHub Advanced Security purposes. It helps organizations monitor their Advanced Security usage and committer counts across repositories.
 
 ## Features
 
